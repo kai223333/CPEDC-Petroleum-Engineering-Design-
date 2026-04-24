@@ -1,4 +1,4 @@
-# CPEDC-Petroleum-Engineering-Design-
+# CPEDC Petroleum-Engineering-Design
 #### Petroleum engineering scheme design
 用于记录石油工程开发设计的方式方法
 #### Petroleum Engineering Design Competition
